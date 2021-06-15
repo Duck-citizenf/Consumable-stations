@@ -1,0 +1,17 @@
+Mod for Fargo's Mutant mod that turns buff stations to potions
+
+For potions: get source and use bottle station
+For infinite platinum coins: get 3998 platinum and use crystal ball
+
+1.3.2 - added omnistation consumable
+1.3.4 - added heart and star statue that work from inventory, requires 10 (3 for heart) statues, 1 5 seconds timer and 50 wire
+1.3.5 - nerfed hearts statue to 3 hearts per 10 seconds and star statue to 1 star per 3.4 seconds, while there is 7+ hearts/stars are anywhere in the world those items stop working
+1.3.6 - added Philosopher's Potion Philo stone that doesn't take accessory slot.
+1.3.6.2 - added challenge item
+1.3.6.7 - added item that turns on toggles during p2 mutant fight
+1.3.6.8 - added bat statue that work from inventory, requires bat statue, 50 wire, 6 5-second timers.
+1.3.7 - bat statue no longer spawn bat, instead it deal damage equal to bat on various stages of the game, it was done to prevent loot from this NPC
+1.3.7.3 - deleted all class stations, since this feature moved into a core mod.
+1.3.8 - omnistation grants station buffs, depending on what weapon you are holding, while it is in your inventory
+1.3.9 - added Normal Omnibuff and Nohit Omnibuff
+1.3.9.6 - small fixes and balance
